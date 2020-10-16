@@ -1,7 +1,5 @@
-## Lab work <mark>NUMBER</mark>: <mark>SHORT TOPIC</mark>
+## Lab work <mark>2</mark>: <mark>Write a library for use with strings using C</mark>
    Authors: <mark>Danyil Hutsul (me)</mark>
-
-### Results
 
 # Lab task 2: write a library for use with strings using C
     Topic: Low-level work with memory
